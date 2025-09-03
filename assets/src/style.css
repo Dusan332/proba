@@ -995,6 +995,12 @@ textarea, #fname, #lname, #email, #check{
 .contact:nth-child(1) { order: 1; }
 .contact:nth-child(2) { order: 2; }
 
+.dog{
+    font-size: larger;
+    font-weight: 600;
+    width: fit-content;
+}
+
 
 .toast {
     position: fixed;
