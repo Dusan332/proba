@@ -17,6 +17,7 @@ body{
     margin: 0;
     padding: 0;
     color: #fff;
+    color:#000;
 }
 h1{
     font-family: Formative Trial;
@@ -1430,4 +1431,5 @@ textarea, #fname, #lname, #email, #check{
         align-items: center;
         gap: 24px;
     }
+
 }
